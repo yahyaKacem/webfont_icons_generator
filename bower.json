@@ -1,0 +1,23 @@
+{
+  "name": "webfont_icons_generator",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": null,
+    "raphael": null,
+    "underscore": null,
+    "angular-ui": null,
+    "raphael.json": null,
+    "font-awesome": null,
+    "raphael.export": null,
+    "sass-bootstrap": null,
+    "angular-unstable": null,
+    "angular-bootstrap": null,
+    "raphael.free_transform": null,
+    "raphael-svg-import-classic": null
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

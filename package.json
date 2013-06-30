@@ -1,0 +1,50 @@
+{
+  "name": "webfont_icons_generator",
+  "version": "0.0.1",
+  "description": "Create SVG icons and generates webfont automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "none "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yahyaKacem/webfont_icons_generator.git"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "karma": "latest",
+    "gzip-js": "latest",
+    "matchdep": "latest",
+    "grunt-open": "latest",
+    "grunt-karma": "latest",
+    "grunt-usemin": "latest",
+    "grunt-webfont": "latest",
+    "grunt-jsvalidate": "latest",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-sass": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-coffee": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-connect": "latest",
+    "grunt-contrib-htmlmin": "latest",
+    "grunt-contrib-compass": "latest",
+    "grunt-bower-requirejs": "latest"
+  },
+  "keywords": [
+    "Webfonts",
+    "Icons"
+  ],
+  "author": {
+    "name": "Yahya Kacem",
+    "email": "fuj.tyoli@gmail.com"
+  },
+  "licenses": {
+    "type": "BSD"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "6aebbdbd1795fa8a2efd00b727e11470e5dfa663"
+}
